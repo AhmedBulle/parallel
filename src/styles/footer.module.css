@@ -1,0 +1,29 @@
+.text p {
+    color: #F5841F;
+    font-size: 40px;
+}
+.text {
+    display: flex;
+    align-items: center;
+
+} 
+.main{
+    background: #21213D;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
+.bottom h1 {
+    color: #CCC;
+text-align: center;
+font-family: Gotham;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 200% */
+}
